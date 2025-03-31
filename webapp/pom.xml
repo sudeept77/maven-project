@@ -10,7 +10,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>Maven - webapp</artifactId>
+  <artifactId>Maven-webapp</artifactId>
   <packaging>war</packaging>
   <name>maven-Webapp</name>
   <description>Webapp</description>
