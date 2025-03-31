@@ -12,7 +12,7 @@
 
   <artifactId>Maven-webapp</artifactId>
   <packaging>war</packaging>
-  <name>maven-Webapp</name>
+  <name>maven-Web</name>
   <description>Webapp</description>
 
   <build>
