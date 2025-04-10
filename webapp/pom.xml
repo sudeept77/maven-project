@@ -5,14 +5,14 @@
 
   <parent>
     <groupId>com.example.maven-project</groupId>
-    <artifactId>maven-project6</artifactId>
+    <artifactId>maven-project</artifactId>
     <version>1.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>Maven-webapp-sudeep</artifactId>
+  <artifactId>Maven-webapp-sudeep6</artifactId>
   <packaging>war</packaging>
-  <name>maven-Web</name>
+  <name>maven-Web6</name>
   <description>Webapp</description>
 
   <build>
