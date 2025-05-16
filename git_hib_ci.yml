@@ -1,0 +1,8 @@
+myjob:
+  stage: Build
+    tags:
+      - myrunner
+    script:
+      - echo, "date"
+      - hostname
+    
