@@ -10,9 +10,9 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>Dec-Package</artifactId>
+  <artifactId>dec_package</artifactId>
   <packaging>war</packaging>
-  <name>maven-Web6</name>
+  <name>dec_package</name>
   <description>Webapp</description>
 
   <build>
