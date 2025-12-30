@@ -10,7 +10,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>Maven-webapp-sudeep6</artifactId>
+  <artifactId>Dec-Package</artifactId>
   <packaging>war</packaging>
   <name>maven-Web6</name>
   <description>Webapp</description>
